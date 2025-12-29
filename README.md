@@ -18,5 +18,4 @@ Limitations
 - The dataset is not included
 - Results depend on how the data is split and processed
 
-Why I made this repo
-I wanted a clean place to show one real project I worked on and continue improving it as I learn more.
+
